@@ -1,0 +1,4 @@
+{
+    "cmd_dice_desc": "Roll an N sided die (T times)",
+    "cmd_dice_example": "N <T>"
+}

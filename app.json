@@ -1,0 +1,16 @@
+{
+    "id": "21869bb3-8f8c-4ef1-aa60-8dcf184742e7",
+    "version": "0.1.0",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Ian McLinden",
+        "homepage": "https://github.com/ianmclinden",
+        "support": "https://github.com/ianmclinden/rocket.chat.app-dice"
+    },
+    "name": "Dice",
+    "nameSlug": "dice",
+    "classFile": "DiceApp.ts",
+    "description": "Roll an N sided die",
+    "implements": []
+}
